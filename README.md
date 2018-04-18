@@ -1,0 +1,2 @@
+# eoswallet
+EOS Web Wallet.
